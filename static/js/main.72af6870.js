@@ -8706,7 +8706,7 @@
                             children: [(0, Yt.jsx)("div", {
                                 className: "app-title",
                                 children: (0, Yt.jsx)(wn, {
-                                    title: "\u041d\u0435\u0442 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430? \u043f\u0440\u043e\u0439\u0434\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e"
+                                    title: ""
                                 })
                             }), (0, Yt.jsx)(Fn, {}), (0, Yt.jsx)(Yn, {})]
                         })
